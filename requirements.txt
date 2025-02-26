@@ -1,0 +1,8 @@
+streamlit
+langchain
+openai
+together
+pandas
+matplotlib
+scipy
+seaborn
